@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YgnIEFFa86FzNyeXa02vB3ncD/T+QRHH4zaSmqY/vGrSSsecKdRP0/Z44uiCs/N6r6w40RUW5zDMEcF01Floug==",
+  "success": true,
+  "projectFilePath": "D:\\Kuliah & Kerja\\Semester 7\\EAI\\Tugas M6\\M6 EAI Scrapping Output\\M6 EAI Scrapping Output.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahad\\.nuget\\packages\\mysqlconnector\\1.0.1\\mysqlconnector.1.0.1.nupkg.sha512",
+    "C:\\Users\\rahad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
